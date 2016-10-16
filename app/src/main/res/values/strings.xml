@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica #1</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Practica Android #1</string>
+    <string name="ingresa">Ingresa el valor de N</string>
+    <string name="btncal">Calcular</string>
+    <string name="res">Resultado</string>
+</resources>
